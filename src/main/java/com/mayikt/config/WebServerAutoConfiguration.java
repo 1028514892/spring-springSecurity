@@ -10,7 +10,7 @@ import org.springframework.http.HttpStatus;
 /**
  * 自定义 WEB 服务器参数 可以配置默认错误页面
  *
- * @author 余胜军
+ * @author xiaoxin
  * @version 2018年11月12日
  */
 @Configuration
